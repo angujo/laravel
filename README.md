@@ -11,6 +11,10 @@ Reliese Laravel is a collection of Laravel Components which aim is
 to help the development process of Laravel applications by 
 providing some convenient code-generation capabilities.
 
+##FORKED
+
+This is a fork
+
 ## How does it work?
 
 This package expects that you are using Laravel 5.1 or above.
